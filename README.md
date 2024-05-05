@@ -1,2 +1,2 @@
-# CPA on AES
+# CPA on AES(128)
 Hardware Security Project
